@@ -1,0 +1,6 @@
+surrealdb
+langchain
+langchain-community
+langchainhub
+unstructured[md]
+fastapi

@@ -1,3 +1,6 @@
+documents_to_import/
+history.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
